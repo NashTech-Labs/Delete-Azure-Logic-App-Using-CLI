@@ -14,4 +14,4 @@ read logicapp
 #2. Resource group name 
 #3. subscriptionid
 
-az logicapp delete --name $logicapp --resource-group $rgname --subscription $subscriptionid
+az logicapp delete --name $logicapp --resource-group $rgname --subscription $subscriptionid 
