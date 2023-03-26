@@ -7,5 +7,3 @@ This shell script helps to delete azure logic app.
 3. `chmod a+x logicapp-delete.sh`
 4. `./logicapp-delete.sh`
 
-
-
